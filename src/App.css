@@ -1,0 +1,45 @@
+
+#backgroundButton{
+  border: solid;
+  border-width: thin;
+  border-radius: 3%;
+  display: flex;
+ flex-direction: column;
+ justify-items: center;
+}
+#inspButton{
+  border: solid;
+  border-width: thin;
+  border-radius: 3%;
+}
+#quote{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20pt;
+}
+#background{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.nav{
+  display: flex;
+  justify-content:space-evenly;
+  border:solid;
+  border-width: thick;
+  border-color: rgb(250, 190, 80);
+  background-color:rgb(250, 190, 80);
+}
+#favorite{
+  text-align: center;
+  width: 450px;
+  margin-left: 35%;
+}
+#about{
+  text-align: center;
+  width: 450px;
+  margin-left: 35%;
+}
