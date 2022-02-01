@@ -7,7 +7,7 @@ import Favorite from "./components/Favorite";
 function App() {
 
   return (
-           <BrowserRouter>
+        <BrowserRouter>
         <Routes>
         <Route index element={<Background  />} />
         <Route path="/about" element={<About />} />
